@@ -1,4 +1,4 @@
-console.log("Сәлем, JavaScript әлемі!");
-console.log('Менің атым:Қуаныш');
-console.log('Live reload enabled');
+console.log("здравствуйте Это Мой Сайт");
+console.log("Мой Сайт Онлайн-Магазин");
+console.log("Вы Можете Здесь Купить Все Что Нужно");
 
